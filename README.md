@@ -1,11 +1,14 @@
 # Categeory_Product
 Project Name: Categeory_Product.
+
 Description:
          - In this project i create a Rest apis and perform CRUD opretion. 
+         
 Features:
        - Create, Read, Update, and Delete (CRUD) operations for categories and products.
        - Search and filter products by category.
        - Database storage for category and product data.
+       
 API Endpoints:
        Here are some of the key API endpoints for managing categories and products:
        GET /api/categories: Retrieve a list of all categories.
